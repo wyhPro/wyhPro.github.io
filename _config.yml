@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email: salt98ruan@163.com
 description: "自律才能自由"
 keyword: "软趴趴,java, Glonk, @Glonk, Glonk的博客, Glonk Blog, 博客, 个人网站, 互联网, Web, JavaScript, 前端, 设计"
-url: "https://wyhpro.github.io"              # your host, for absolute URL
+url: "https://glonk.irua.cn"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 beian: "鄂ICP备19009681号" #备案号
 # Publish posts or collection documents with a future date.
