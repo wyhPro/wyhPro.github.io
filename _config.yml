@@ -12,7 +12,7 @@ beian: "鄂ICP备19009681号" #备案号
 future: true
 
 # SNS settings
-RSS: false
+RSS: true
 #weibo_username:     wyhPro
 #zhihu_username:     wyhPro
 github_username:    wyhPro
